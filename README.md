@@ -8,6 +8,10 @@ This workbook was designed to make student tracking more organized by bringing a
 
 **Demo data:** All names, IDs, and scores in this repository are fictional sample data for demonstration and testing.
 
+## Online Workbook
+
+[Open the shared spreadsheet](https://docs.google.com/spreadsheets/d/1VtbRtgCmmFCPxVpb07ifn-z0MfS-vxJE/edit?usp=sharing) (Google Sheets).
+
 ## Key Features
 
 - Record attendance across multiple sessions.
