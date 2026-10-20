@@ -27,6 +27,7 @@ The workbook contains 18 worksheets organized by grade and group:
 - Microsoft Excel
 - Excel formulas: `COUNTIF`, `SUM`, `VLOOKUP`, `IF`, and `IFERROR`
 - Data organization and validation
+- Automated Calculations and Reporting
 - Spreadsheet formatting and reporting
 
 ## How to Use
