@@ -1,43 +1,48 @@
 # Advantage Academy Student Tracking System
 
+An Excel-based system for organizing student attendance, participation points, and student-level performance summaries.
+
 ## Project Overview
-An Excel-based student tracking system designed to organize student attendance, participation points, and performance summaries for an educational program.
 
-This project demonstrates how Microsoft Excel formulas and structured worksheets can replace manual tracking with a more organized and consistent process.
+This workbook was designed to make student tracking more organized by bringing attendance records, participation scores, and summary calculations into one structured Excel file.
 
-**Note:** All data in this workbook is fictional sample data created for demonstration and testing purposes.
+**Demo data:** All names, IDs, and scores in this repository are fictional sample data for demonstration and testing.
 
 ## Key Features
-- Track attendance across multiple sessions.
-- Automatically calculate present and absent counts.
-- Calculate attendance points using Excel formulas.
+
+- Record attendance across multiple sessions.
+- Automatically count **Present** and **Absent** statuses.
+- Calculate attendance points with Excel formulas.
 - Record participation scores across 25 days.
-- Automatically calculate total participation points.
-- Summarize attendance and participation points by student ID.
-- Use filters, frozen headers, and consistent formatting for easier navigation.
+- Automatically calculate participation totals.
+- Combine attendance and participation totals in student summaries using student IDs.
+- Navigate worksheets more easily with filters, frozen headers, and consistent formatting.
 
 ## Workbook Structure
+
 The workbook contains 18 worksheets organized by grade and group:
 
-- **Attendance Sheets:** Session-by-session attendance records and calculated totals.
-- **Participation Sheets:** Daily participation scores and automatic point totals.
-- **General Information Sheets:** Student-level summaries combining attendance and participation points.
+- **Attendance sheets** — session-by-session attendance and calculated attendance totals.
+- **Participation sheets** — daily participation scores and total participation points.
+- **General Information sheets** — student-level summaries combining attendance and participation totals.
 
-## Tools & Skills
-- Microsoft Excel
-- Excel formulas: `COUNTIF`, `SUM`, `VLOOKUP`, `IF`, and `IFERROR`
-- Data organization and validation
-- Automated Calculations and Reporting
-- Spreadsheet formatting and reporting
+## Tools & Technical Skills
+
+- **Microsoft Excel**
+- **Formulas:** `VLOOKUP`, `COUNTIF`, `SUM`, `IF`, `IFERROR`
+- **Automated calculations and student performance summaries**
+- **Data organization and spreadsheet formatting**
 
 ## How to Use
-1. Open the Excel workbook in Microsoft Excel.
-2. Navigate to the appropriate grade and group.
-3. Update attendance statuses in the attendance worksheets.
-4. Enter daily participation scores in the participation worksheets.
-5. Review the automatically calculated totals and student summaries.
 
-For consistent results, use matching student IDs across related worksheets and keep attendance labels consistent.
+1. Open the workbook in Microsoft Excel.
+2. Select the relevant grade and group worksheets.
+3. Enter attendance statuses in the attendance sheet.
+4. Enter daily participation scores in the participation sheet.
+5. Review the calculated totals and student summaries.
+
+For consistent results, keep student IDs consistent across related worksheets and use the attendance status labels already used in the workbook.
 
 ## Project Goal
-The goal of this project is to demonstrate how spreadsheet automation can improve the organization of student attendance and participation tracking in an educational setting.
+
+Demonstrate how spreadsheet formulas and structured worksheets can reduce manual calculations and improve the organization of attendance and participation tracking in an educational setting.
